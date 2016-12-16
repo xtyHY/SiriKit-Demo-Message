@@ -1,0 +1,22 @@
+PODS:
+  - MJExtension (3.0.13)
+  - RongCloudIM/IMKit (2.8.3):
+    - RongCloudIM/IMLib
+  - RongCloudIM/IMLib (2.8.3)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+
+DEPENDENCIES:
+  - MJExtension (~> 3.0.10)
+  - RongCloudIM/IMKit (= 2.8.3)
+  - SDWebImage (~> 3.7)
+
+SPEC CHECKSUMS:
+  MJExtension: 5932755f451458eefa24239358817f8d291240c7
+  RongCloudIM: 33c6ba0880116d992b527c054903f683b014f0c2
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+
+PODFILE CHECKSUM: 4ff08f624f7c8e08ef104bb5c323532896cd5771
+
+COCOAPODS: 1.0.0

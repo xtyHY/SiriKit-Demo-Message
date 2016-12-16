@@ -1,0 +1,12 @@
+#use_frameworks!
+inhibit_all_warnings!
+
+platform :ios, '8.0'
+
+target 'SiriKitTest' do
+
+    pod 'SDWebImage', '~>3.7'
+    pod 'MJExtension', '~> 3.0.10'
+    pod 'RongCloudIM/IMKit', '2.8.3'
+    
+end

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>portraitUri</key>
+		<string>http://oa73hsfk5.bkt.clouddn.com/2016-10-24-HYCacheCleanTestImg17.jpg</string>
+		<key>name</key>
+		<string>张五</string>
+		<key>userId</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>portraitUri</key>
+		<string>http://oa73hsfk5.bkt.clouddn.com/2016-10-24-HYCacheCleanTestImg02.jpg</string>
+		<key>name</key>
+		<string>罗荣</string>
+		<key>userId</key>
+		<string>14</string>
+	</dict>
+	<dict>
+		<key>portraitUri</key>
+		<string>http://oa73hsfk5.bkt.clouddn.com/2016-10-24-HYCacheCleanTestImg01.jpg</string>
+		<key>name</key>
+		<string>张三</string>
+		<key>userId</key>
+		<string>11</string>
+	</dict>
+	<dict>
+		<key>portraitUri</key>
+		<string>http://oa73hsfk5.bkt.clouddn.com/avatar.jpg</string>
+		<key>name</key>
+		<string>徐天宇</string>
+		<key>userId</key>
+		<string>1</string>
+		<key>New item</key>
+		<string></string>
+	</dict>
+</array>
+</plist>
